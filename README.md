@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack apasionado por
 
 - 🌱 Actualmente estoy profundizando mis conocimientos en tecnologías Full Stack.
 - 💬 Pregúntame sobre JavaScript, TypeScript, React, Node.js, y más.
-- 📫 Puedes contactarme en lucas.abella@example.com o a través de [LinkedIn](https://www.linkedin.com/in/lucasabella).
+- 📫 Puedes contactarme en lucasagustinabella@gmail.com o a través de [LinkedIn](https://www.linkedin.com/in/lucasabella).
 - 😄 Pronombres: él.
 - ⚡ Dato curioso: Me encanta explorar nuevas tecnologías y contribuir a proyectos de código abierto.
 
