@@ -33,11 +33,6 @@ Un blog personal construido con Next.js y MongoDB para compartir artículos y tu
 - [Demo en vivo](https://blog-personal.example.com)
 
 
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub de Lucas Abella](https://github-readme-stats.vercel.app/api?username=lucasabella&show_icons=true&theme=radical)
-
 ## ¡Conéctate conmigo!
 
 - [LinkedIn](https://www.linkedin.com/in/lucasabella)
