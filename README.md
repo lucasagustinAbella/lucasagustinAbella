@@ -1,41 +1,39 @@
-# ¡Hola, soy Lucas Abella! 👋
+# Hi, I'm Lucas Abella! 👋
 
-Desarrollador full stack de Argentina 
+Full Stack Developer from Argentina
 
+## Technologies and Tools
 
-## Tecnologías y Herramientas
+Here are some of the technologies and tools I work with:
 
-Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
+- Programming Languages: JavaScript, TypeScript
+- Frameworks and Libraries: React, Redux, Node, Express, Nest
+- Databases: PostgreSQL, MongoDB
+- Development Tools: Docker, Git, Insomnia, Postman
 
-- Lenguajes de Programación: JavaScript, TypeScript
-- Frameworks y Librerías: React, Redux, Node, Express, Nest
-- Bases de Datos: PostgreSQL, MongoDB
-- Herramientas de Desarrollo: Docker, Git, VSCode
+## Featured Projects
 
-## Proyectos Destacados
+### [Project 1: Task Manager](https://github.com/lucasabella/gestor-tareas)
+A web application to manage daily tasks, created with React and Node.js.
 
-### [Proyecto 1: Gestor de Tareas](https://github.com/lucasabella/gestor-tareas)
-Una aplicación web para gestionar tareas diarias, creada con React y Node.js.
+- [Repository Link](https://github.com/lucasabella/gestor-tareas)
+- [Live Demo](https://gestor-tareas.example.com)
 
-- [Enlace al repositorio](https://github.com/lucasabella/gestor-tareas)
-- [Demo en vivo](https://gestor-tareas.example.com)
+### [Project 2: Online Store](https://github.com/lucasabella/tienda-en-linea)
+An e-commerce platform developed with React, Redux, and Express.
 
-### [Proyecto 2: Tienda en Línea](https://github.com/lucasabella/tienda-en-linea)
-Una plataforma de comercio electrónico desarrollada con React, Redux y Express.
+- [Repository Link](https://github.com/lucasabella/tienda-en-linea)
+- [Live Demo](https://tienda-en-linea.example.com)
 
-- [Enlace al repositorio](https://github.com/lucasabella/tienda-en-linea)
-- [Demo en vivo](https://tienda-en-linea.example.com)
+### [Project 3: Personal Blog](https://github.com/lucasabella/blog-personal)
+A personal blog built with Next.js and MongoDB to share articles and tutorials.
 
-### [Proyecto 3: Blog Personal](https://github.com/lucasabella/blog-personal)
-Un blog personal construido con Next.js y MongoDB para compartir artículos y tutoriales.
+- [Repository Link](https://github.com/lucasabella/blog-personal)
+- [Live Demo](https://blog-personal.example.com)
 
-- [Enlace al repositorio](https://github.com/lucasabella/blog-personal)
-- [Demo en vivo](https://blog-personal.example.com)
-
-
-## ¡Conéctate conmigo!
+## Connect with Me!
 
 - [LinkedIn](https://www.linkedin.com/in/lucasabella)
 - [Twitter](https://twitter.com/lucasabella)
-- [Página web o blog personal](https://lucasabella.example.com)
+- [Personal Website or Blog](https://lucasabella.example.com)
 
