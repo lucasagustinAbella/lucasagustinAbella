@@ -13,27 +13,24 @@ Here are some of the technologies and tools I work with:
 
 ## Featured Projects
 
-### [Project 1: Task Manager](https://github.com/lucasabella/gestor-tareas)
-A web application to manage daily tasks, created with React and Node.js.
+### [Project 1: CoreForceFitness](https://github.com/lucasabella/gestor-tareas)
+Fully functional gym page
 
-- [Repository Link](https://github.com/lucasabella/gestor-tareas)
-- [Live Demo](https://gestor-tareas.example.com)
+-[Deploy](https://front-core-force.vercel.app/)
+- [Live Demo](https://tienda-en-linea.example.com)
 
 ### [Project 2: Online Store](https://github.com/lucasabella/tienda-en-linea)
 An e-commerce platform developed with React, Redux, and Express.
 
 - [Repository Link](https://github.com/lucasabella/tienda-en-linea)
-- [Live Demo](https://tienda-en-linea.example.com)
 
 ### [Project 3: Personal Blog](https://github.com/lucasabella/blog-personal)
 A personal blog built with Next.js and MongoDB to share articles and tutorials.
 
 - [Repository Link](https://github.com/lucasabella/blog-personal)
-- [Live Demo](https://blog-personal.example.com)
 
 ## Connect with Me!
 
 - [LinkedIn](https://www.linkedin.com/in/lucasabella)
-- [Twitter](https://twitter.com/lucasabella)
-- [Personal Website or Blog](https://lucasabella.example.com)
-
+- [Mail](lucasagustinabella@gmail.com)
+- [Phone](+52 02612179449)
