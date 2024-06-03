@@ -13,24 +13,24 @@ Here are some of the technologies and tools I work with:
 
 ## Featured Projects
 
-### [Project 1: CoreForceFitness](https://github.com/lucasabella/gestor-tareas)
+### Project 1: CoreForceFitness
 Fully functional gym page
 
--[Deploy](https://front-core-force.vercel.app/)
+- [Deploy](https://front-core-force.vercel.app/)
 - [Live Demo](https://tienda-en-linea.example.com)
 
-### [Project 2: Online Store](https://github.com/lucasabella/tienda-en-linea)
-An e-commerce platform developed with React, Redux, and Express.
+### Project 2: API-REST ecommerce
+API rest for an electronic ecommerce
 
-- [Repository Link](https://github.com/lucasabella/tienda-en-linea)
+- [Repository Link](https://github.com/lucasagustinAbella/API-REST-ecommerce)
 
-### [Project 3: Personal Blog](https://github.com/lucasabella/blog-personal)
-A personal blog built with Next.js and MongoDB to share articles and tutorials.
+### Project 3: Appointments Managment
+A tiny clinic page for appointments managment test
 
-- [Repository Link](https://github.com/lucasabella/blog-personal)
+- [Repository Link](https://github.com/lucasagustinAbella/CLINIC-appointments-managment)
 
 ## Connect with Me!
 
-- [LinkedIn](https://www.linkedin.com/in/lucasabella)
+- [LinkedIn](https://www.linkedin.com/in/lucas-agustin-abella-burgoa-73ab0129a/)
 - [Mail](lucasagustinabella@gmail.com)
 - [Phone](+52 02612179449)
