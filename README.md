@@ -33,4 +33,4 @@ A tiny clinic page for appointments managment test
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-agustin-abella-burgoa-73ab0129a/)
 - [Mail](lucasagustinabella@gmail.com)
-- [Phone](+52 02612179449)
+- +52 02612179449
