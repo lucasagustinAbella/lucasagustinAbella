@@ -32,5 +32,5 @@ A tiny clinic page for appointments managment test
 ## Connect with Me!
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-agustin-abella-burgoa-73ab0129a/)
-- [Mail](lucasagustinabella@gmail.com)
+- Maill: lucasagustinabella@gmail.com
 - +52 02612179449
