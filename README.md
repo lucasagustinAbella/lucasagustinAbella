@@ -17,7 +17,7 @@ Here are some of the technologies and tools I work with:
 Fully functional gym page
 
 - [Deploy](https://front-core-force.vercel.app/)
-- [Live Demo](https://tienda-en-linea.example.com)
+- [Live Demo](https://www.youtube.com/watch?v=GfZ-wOujl6w)
 
 ### Project 2: API-REST ecommerce
 API rest for an electronic ecommerce
