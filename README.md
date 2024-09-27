@@ -8,7 +8,7 @@ Here are some of the technologies and tools I work with:
 
 - Programming Languages: JavaScript, TypeScript
 - Frameworks and Libraries: React, Redux, Node, Express, Nest
-- Databases: PostgreSQL, MongoDB
+- Databases: PostgreSQL, MongoDB, Airtable, Firebase, CMS
 - Development Tools: Docker, Git, Insomnia, Postman
 
 ## Featured Projects
